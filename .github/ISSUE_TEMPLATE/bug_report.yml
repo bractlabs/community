@@ -1,0 +1,47 @@
+name: Public build bug
+description: Report a reproducible problem in the playable Racer build or public website.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search existing reports first. For security concerns, use the private reporting instructions instead.
+        Remove credentials, cookies, personal data and proprietary source from all reports and attachments.
+  - type: input
+    id: url
+    attributes:
+      label: Public build URL
+      placeholder: https://bractlabs.com/games/racer/
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Browser and version, operating system, and GPU if known. For input bugs, include keyboard or gamepad and embedded, expanded or fullscreen mode.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include relevant circuit, car, weather and settings when applicable.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or sanitized logs
+      description: Optional; inspect attachments for personal information and secrets before submitting.

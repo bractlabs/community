@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/bractlabs/community/discussions
+    about: Ask questions, suggest ideas and share experiments in Discussions.
+  - name: Private security report
+    url: https://github.com/bractlabs/.github/blob/main/SECURITY.md
+    about: Read the private reporting instructions; do not disclose vulnerabilities publicly.
+  - name: Corporate engine-source access
+    url: https://bractlabs.com/partners/
+    about: Engine source access is handled under corporate agreements, not public issues.
