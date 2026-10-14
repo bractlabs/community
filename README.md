@@ -2,7 +2,7 @@
 
 Questions, ideas and feedback for Bract Engine and Bract Racer.
 
-[Play Racer](https://bractlabs.com/games/racer/) · [Engine overview](https://bractlabs.com/engine/) · [Showcases](https://bractlabs.com/showcases/)
+[Website](https://bractlabs.com) · [Play Racer](https://bractlabs.com/games/racer/) · [Engine overview](https://bractlabs.com/engine/) · [Showcases](https://bractlabs.com/showcases/) · [Discussions](https://github.com/bractlabs/community/discussions)
 
 ## Start Here
 
